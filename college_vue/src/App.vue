@@ -4,7 +4,7 @@
           <div class="nav_con">
             <div class="nav_lt">
               <div class="logo_con">
-                <img src="./assets/images/logo.png" title="logo" alt="logo">
+                <img src="../assets/images/logo.png" title="logo" alt="logo">
                 <div class="page_title_con">
                   <h2>IDyoga瑜伽</h2>
                   <p>家庭健康客流服务平台</p>
